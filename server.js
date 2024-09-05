@@ -6,4 +6,4 @@ app.get('/', (req, res) => {
 
    } );
 
-app.listen(https://api-six-bice.vercel.app/, () => console.log('Server running...'));
+app.listen(3000, () => console.log('Server running...'));
